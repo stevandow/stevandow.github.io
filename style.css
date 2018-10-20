@@ -49,7 +49,7 @@ body {
     font-size: 1.125em; /* font-size: 18px; */
     font-family: 'Raleway', sans-serif;
     line-height: 1.8;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 0.12em;
     -webkit-font-smoothing: antialiased;
 }
@@ -802,11 +802,13 @@ margin-top: 20px;
     font-family: 'Montserrat', sans-serif;
 }
 
+/*
 .single #post-nav .label,
 .single #post-nav #prev-items i,
 .single #post-nav #next-items i {
     font-size: 0.75em;
 }
+*/
 
 .single #post-nav #prev-items .label {
     padding-left: 1.5em;
@@ -1447,9 +1449,11 @@ a.reply:hover {
     Sidebar
 ----------------------------------------------------------------*/
 
+/*
 .widget {
     font-size: 0.8em;
 }
+*/
 
 .widget h4 {
     margin-top: 0;
