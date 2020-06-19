@@ -2185,7 +2185,7 @@ section.greyish {
     onScreen animations
 ----------------------------------------------------------------*/
 
-.slogan.animation.onscreen,
+.animation.onscreen,
 .call-to-action .animation.onscreen,
 .side-mockup.left-mockup.animation.onscreen {
     opacity: 1;
