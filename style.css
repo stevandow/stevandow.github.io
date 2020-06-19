@@ -2459,7 +2459,7 @@ input.button {
     -webkit-border-radius: 0.333em;
     -moz-border-radius: 0.333em;
     border-radius: 2em;
-    background-color: rgba(84,87,102,1);
+    background-color: rgb(34, 35, 37);
     color: #FFFFFF !important;
     text-decoration: none !important;
     font-size: 1em !important;
