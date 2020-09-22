@@ -532,15 +532,6 @@ nav ul.sub-menu > li:last-child > a {
     color: #FD685B;
 }
 
-/* Hero Image */
-
-.hero-image {
-    height: 300px;
-    width: 300px;
-    margin: auto;
-    margin-bottom: 20px;
-    margin-top: 40px;
-}
 
 /*----------------------------------------------------------------
     Intro
@@ -563,7 +554,6 @@ nav ul.sub-menu > li:last-child > a {
     position: absolute;
     width: inherit;
     height: inherit;
-    background-color: #E94949;
     background-position: top center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
